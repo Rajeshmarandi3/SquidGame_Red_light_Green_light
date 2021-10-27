@@ -30,4 +30,11 @@
     - `git clone https://github.com/Rajeshmarandi3/SquidGame_Red_light_Green_light.git`
     - git checkout main
     - to run the server `python red_light_green_light_game.py`
+
     
+* **Instructions to Play**
+   - After downloading the project from git, run the application with “python red_light_green_light_game.py” 
+   - Press “R”. (to reset the background or Restart the game)
+   - Press “B”  (to capture the current background)
+   - Press “M” to start the game. 
+   - You can quit the game anytime with the “Esc” button.
